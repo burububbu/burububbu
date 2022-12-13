@@ -9,9 +9,9 @@
 
 <h2> What I'm doing </h2>
 
-- 📚 Currently studying Software Techniques at the University of Bologna
-- 🔭 I’m currently working on [a map-reduce implementation of C4.5 algorithm](https://github.com/alejack9/Accident-Severity-Prediction-Map-Reduce)
-- 🌱 I’m currently learning **AI explainability methods** and **Docker**
+- 📚 Studying Software Techniques at the University of Bologna
+- 🔭 Working on [a map-reduce implementation of C4.5 algorithm](https://github.com/alejack9/Accident-Severity-Prediction-Map-Reduce)
+- 🌱 Learning **AI explainability methods** and **Docker**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
