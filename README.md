@@ -1,6 +1,9 @@
 <h1 align="center">Hi, I'm Alessandra ✨</h1>
 <h3 align="center"> A software engineer passionate about data and AI </h3>
 
+
+<!-- [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U/) -->
+
 <h2> About me </h2>
 
 - 🏡 Based in Fabriano, Italy
