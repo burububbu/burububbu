@@ -8,7 +8,7 @@
 
 - 🏡 Based in Fabriano, Italy
 - 🎓 Bachelor degree in Computer Science at the University of Camerino
-- 💙 Interested in music 🎶, tv series 📺 and reading 📖
+- 💙 Interested in music 🎶, tv series 📺, reading 📖 and [@alejack9](https://github.com/alejack9) :man:
 
 <h2> What I'm doing </h2>
 
