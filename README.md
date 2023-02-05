@@ -13,7 +13,7 @@
 <h2> What I'm doing </h2>
 
 - 📚 Studying Software Techniques at the University of Bologna
-- 🔭 Working on [a map-reduce implementation of C4.5 algorithm](https://github.com/alejack9/Accident-Severity-Prediction-Map-Reduce)
+- 🔭 Working on [speech emotion recognition project](https://github.com/alejack9/Accident-Severity-Prediction-Map-Reduce)'s report and thesis
 - 🌱 Learning **AI explainability methods** and **Docker**
 
 <h2 align="left">Connect with me:</h2>
