@@ -13,7 +13,7 @@
 <h2> What I'm doing </h2>
 
 - 📚 Studying Software Techniques at the University of Bologna
-- 🔭 Working on [speech emotion recognition project](https://github.com/alejack9/Speech-Emotion-Recognition)'s report and thesis
+- 🔭 Working on thesis
 - 🌱 Learning **AI explainability methods** and **Docker**
 
 <h2 align="left">Connect with me:</h2>
