@@ -8,12 +8,12 @@
 
 - 🏡 Based in Fabriano, Italy
 - 🎓 Bachelor degree in Computer Science at the University of Camerino
+- 🎓 Master degree in Computer Science at the University of Bologna (curriculum Software Techniques) 
 - 💙 Interested in music 🎶, tv series 📺, reading 📖 and [@alejack9](https://github.com/alejack9) :man:
 
 <h2> What I'm doing </h2>
 
-- 📚 Studying Software Techniques at the University of Bologna
-- 🔭 Working on thesis
+- 🔭 Working as IT consultant
 - 🌱 Learning **AI explainability methods** and **Docker**
 
 <h2 align="left">Connect with me:</h2>
