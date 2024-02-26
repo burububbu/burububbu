@@ -14,7 +14,7 @@
 <h2> What I'm doing </h2>
 
 - 🔭 Working as IT consultant
-- 🌱 Learning **AI explainability methods** and **Docker**
+- 🌱 Learning **LLM**, **prompt engineering** and **AI in logistics**
 
 <h2 align="left">Connect with me:</h2>
 <p align="center">
